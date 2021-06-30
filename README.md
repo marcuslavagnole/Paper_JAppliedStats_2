@@ -1,5 +1,5 @@
 Repository with R routines used in the paper:
-**"Bayesian variable selection in quantile regression with random effects: An application to Municipal Human Development Index"**, R&R at Journal of Applied Statistics.
+**"Bayesian variable selection in quantile regression with random effects: An application to Municipal Human Development Index"**, Accepted at Journal of Applied Statistics.
 
 All functions and data sets are located in the root directory.
 - **MCMC_SS-RE-GAL.R** : MCMC routine for quantile regression with random effects and variable selection based on Generalized Asymmetric Laplace distribution;
